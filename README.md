@@ -18,3 +18,6 @@ The following example reads in a VCF file called *example.vcf* and a population 
 Or alternatively:
 
 `python3 vcf2genepop.py example.vcf example_popmap.csv example.genepop`
+
+## Archival notice
+The functionality of this script has been integrated into [`VCF2PopGen`](https://github.com/jpvdz/vcf2popgen), so this repository has been archived.
